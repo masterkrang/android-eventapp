@@ -12,5 +12,6 @@ public class EventAppActivity extends Activity {
         
         
         //testing git
+        //another test of clone and push
     }
 }
